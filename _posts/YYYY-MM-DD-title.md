@@ -1,3 +1,3 @@
 hahah
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "NEHARIKA"
+date: 2019-01-30
